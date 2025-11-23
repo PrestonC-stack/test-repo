@@ -1,1 +1,1 @@
-This is my first Git commit in VS Code.
+This line is from the conflict-training branch.
